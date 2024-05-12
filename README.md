@@ -13,6 +13,6 @@ Example :
 	if (Entity->Feet_Position.Empty()) continue;
 
 	ImGui::GetBackgroundDrawList()->AddText(ImVec2(Entity->Feet_Position.x, Entity->Feet_Position.y), ImColor(255, 255, 255, 255), "Entity");
-} ```
+} 
 
 
